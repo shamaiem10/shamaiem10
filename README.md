@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamaiem10
-- 👀 I’m interested in game development
-- 🌱 I’m currently doing Bachelors in Software Engineering
+- 👀 I’m interested in game development.
+- 🌱 I’m currently doing Bachelors in Software Engineering from National University Of Sciences And Technology,Islamabad.
 - 📫 You can reach me at shamaiemshabbir14@gmail.com
 - 😄 Pronouns: she/her
 
