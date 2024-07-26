@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @shamaiem10
-- 👀 I'm  a passionate student with a keen interest in **game development**, **embedded systems**, and other exciting tech domain.
-- 🌱 I’m currently doing Bachelors in Software Engineering from National University Of Sciences And Technology,Islamabad.
-- 📫 You can reach me at shamaiemshabbir14@gmail.com
-- 😄 Pronouns: she/her
+👋 Hi there! I'm Shamaiem, a passionate software engineering student at NUST with a keen interest in exploring various exciting tech domains.
+
+🔭 Currently working on web projects with HTML, CSS, JavaScript.
+
+🌱 Learning advanced Java and front-end development.
+
+💬 Ask me about Java, C++, HTML, CSS, and JavaScript.
+
+📫 Reach me at @shamaiemshabbir14@gmail.com 
 
 <!---
 shamaiem10/shamaiem10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
