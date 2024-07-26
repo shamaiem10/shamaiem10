@@ -6,7 +6,7 @@
 
 💬 Ask me about Java, C++, HTML, CSS, and JavaScript.
 
-📫 Reach me at @shamaiemshabbir14@gmail.com 
+📫 Reach me at shamaiemshabbir14@gmail.com 
 
 <!---
 shamaiem10/shamaiem10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
