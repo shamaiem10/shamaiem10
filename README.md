@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Shamaiem, a passionate software engineering student at NUST with a keen interest in exploring various exciting tech domains.<br><br>🔭 Currently working on web projects with HTML, CSS, JavaScript.<br><br>🌱 Learning advanced Java and C++.<br><br>📫 Reach me at shamaiemshabbir14@gmail.com
+👋 Hi there! I'm Shamaiem, a passionate software engineering student at NUST with a keen interest in exploring various exciting tech domains.<br><br>🔭 Currently working on web projects with HTML, CSS and JavaScript.<br><br>🌱 Learning advanced Java and C++.<br><br>📫 Reach me at shamaiemshabbir14@gmail.com .
 
 
 ## 🌐 Socials:
