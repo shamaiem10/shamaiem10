@@ -19,7 +19,7 @@
 ![SQL](https://img.shields.io/badge/sql-%23000.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![
+
 
 ---
 
