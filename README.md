@@ -53,13 +53,7 @@ currently : poking at how ai models explain themselves
 
 ---
 
-**stats ✦**
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=shamaiem10&theme=catppuccin&hide_border=true" height="165"/>
-</div>
-
----
 
 
 <div align="center">
@@ -73,4 +67,3 @@ currently : poking at how ai models explain themselves
 <sub>thanks for stopping by ˚ ༘ ✩ ⋆｡˚</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e0f2fe,50:ede9fe,100:fce7f3&height=120&section=footer" width="100%"/>
