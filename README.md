@@ -17,7 +17,7 @@ just a swe student trying to build things that actually work. i really like when
 ```yaml
 location  : islamabad, pakistan 🌙
 studying  : software engineering @ nust
-interests : mern stack · ai/ml · system design
+interests : mern stack · ai/ml · system design · automation
 currently : poking at how ai models explain themselves
 ```
 
